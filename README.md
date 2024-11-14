@@ -1,5 +1,5 @@
 # Coolizard-Character-Animations
-Sample character animations, developed using HTML, JavaScript and CSS.<br>
+Sample character animations, developed using HTML, CSS and JavaScript.<br>
 Project developed using Construct 3 in 2020.<br>
 
 NW.dll needed to run the build.
